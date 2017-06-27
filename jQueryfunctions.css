@@ -1,0 +1,8 @@
+#wrapper{
+    width: 1000px;
+}
+.click, .hide, .show, .toggle, .slidedown, .slideup, .slidetoggle, .fadein, .fadeout, .addclass, .before, .after, .append, .html, .attr, .val, .text, .data {
+    width:1000px;
+    height: 150px;
+    border-bottom: solid black 5px;
+}
