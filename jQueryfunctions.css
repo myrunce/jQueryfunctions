@@ -5,4 +5,8 @@
     width:1000px;
     height: 150px;
     border-bottom: solid black 5px;
+    text-align: center;
+}
+.red{
+    color: red;
 }
